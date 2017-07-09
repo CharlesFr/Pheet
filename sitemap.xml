@@ -1,49 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://CharlesFr.github.io/index.html</loc>
+    <loc>https://CharlesFr.github.io/Pheet/index.html</loc>
     <lastmod>2017-07-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://CharlesFr.github.io/images/logo.svg</loc>
+    <loc>https://CharlesFr.github.io/Pheet/images/logo.svg</loc>
     <lastmod>2017-07-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://CharlesFr.github.io/images/software.png</loc>
+    <loc>https://CharlesFr.github.io/Pheet/images/software.png</loc>
     <lastmod>2017-07-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://CharlesFr.github.io/images/presentation.jpg</loc>
+    <loc>https://CharlesFr.github.io/Pheet/images/presentation.jpg</loc>
     <lastmod>2017-07-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://CharlesFr.github.io/images/pexels-photo.png</loc>
+    <loc>https://CharlesFr.github.io/Pheet/images/pexels-photo1920x1281.png</loc>
     <lastmod>2017-07-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://CharlesFr.github.io/images/software428x289.png</loc>
+    <loc>https://CharlesFr.github.io/Pheet/images/software856x577.png</loc>
     <lastmod>2017-07-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://CharlesFr.github.io/images/presentation960x540.jpg</loc>
+    <loc>https://CharlesFr.github.io/Pheet/images/pexels-photo1400x934.png</loc>
     <lastmod>2017-07-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://CharlesFr.github.io/images/pexels-photo960x641.png</loc>
+    <loc>https://CharlesFr.github.io/Pheet/images/software625x421.png</loc>
+    <lastmod>2017-07-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://CharlesFr.github.io/Pheet/images/pexels-photo.png</loc>
+    <lastmod>2017-07-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://CharlesFr.github.io/Pheet/images/pexels-photo1200x801.png</loc>
+    <lastmod>2017-07-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://CharlesFr.github.io/Pheet/images/software535x361.png</loc>
+    <lastmod>2017-07-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://CharlesFr.github.io/Pheet/images/presentation1200x675.jpg</loc>
+    <lastmod>2017-07-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://CharlesFr.github.io/Pheet/images/pexels-photo960x641.png</loc>
+    <lastmod>2017-07-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://CharlesFr.github.io/Pheet/images/software428x289.png</loc>
+    <lastmod>2017-07-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://CharlesFr.github.io/Pheet/images/presentation960x540.jpg</loc>
+    <lastmod>2017-07-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://CharlesFr.github.io/Pheet/images/presentation1400x788.jpg</loc>
     <lastmod>2017-07-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
