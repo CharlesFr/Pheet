@@ -1,0 +1,47 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="https://CharlesFr.github.io" resolutions="1x" timestamp="1499600977792">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="4265823312" ref="index"/>
+    <file name="nomq_index.css" crc="3936717817" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="163421577" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="168988563" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index"/>
+    <file name="webpro.js" crc="3848665353" ref="index"/>
+    <file name="form_check.php" crc="158155501" ref="index"/>
+    <file name="form_throttle.php" crc="3992970984" ref="index"/>
+    <file name="form_process.php" crc="4078697226" ref="index"/>
+    <file name="form-u94.php" crc="526757637" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="4146931122" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="pexels-photo.png" crc="369988074" seo="true" ref="index"/>
+    <file name="u265-6.png" crc="4188090053" ref="index"/>
+    <file name="logo.svg" crc="256533125" seo="true" ref="index"/>
+    <file name="logo_poster_.png" crc="4234283386" ref="index"/>
+    <file name="logo-crop-u366.png" crc="170414331" ref="index"/>
+    <file name="software.png" crc="4226583070" seo="true" ref="index"/>
+    <file name="flow-crop-u378.jpg" crc="4169633510" ref="index"/>
+    <file name="presentation.jpg" crc="4058097293" seo="true" ref="index"/>
+    <file name="u440-6.png" crc="14967733" ref="index"/>
+    <file name="u234-4.png" crc="4077735843" ref="index"/>
+    <file name="pexels-photo960x641.png" crc="3825910595" seo="true" ref="index"/>
+    <file name="software428x289.png" crc="2756284" seo="true" ref="index"/>
+    <file name="flow-crop-u3782.jpg" crc="3884001606" ref="index"/>
+    <file name="logo-crop-u3662.png" crc="199500531" ref="index"/>
+    <file name="u265-62.png" crc="511788963" ref="index"/>
+    <file name="u440-62.png" crc="3777057181" ref="index"/>
+    <file name="presentation960x540.jpg" crc="4227023181" seo="true" ref="index"/>
+    <file name="u234-42.png" crc="419075140" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u96.png" crc="3975589936" ref="index"/>
+    <file name="u96-r.png" crc="451884626" ref="index"/>
+    <file name="u96-m.png" crc="376118133" ref="index"/>
+    <file name="u96-fs.png" crc="3839645640" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3860133693" seo="true" mt="1499598619625" redirect="true"/>
+</manifest>
