@@ -1,8 +1,13 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="https://CharlesFr.github.io/Pheet" resolutions="1x" timestamp="1499605600907">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="https://CharlesFr.github.io/Pheet" resolutions="1x" timestamp="1499632511467">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="3926208517" ref="index"/>
-    <file name="nomq_index.css" crc="422289303" ref="index"/>
+    <file name="index.css" crc="103854269" ref="index"/>
+    <file name="nomq_index.css" crc="3893581137" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="montserratblack.woff" crc="234957000"/>
+    <file name="montserrat-regular-webfont.eot" crc="208200907"/>
+    <file name="montserrat-regular-webfont.svg" crc="3954203612"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -10,57 +15,47 @@
     <file name="whatinput.js" crc="86476730" ref="index"/>
     <file name="museconfig.js" crc="168988563" ref="index"/>
     <file name="jquery.watch.js" crc="104486786" ref="index"/>
-    <file name="webpro.js" crc="3848665353" ref="index"/>
-    <file name="form_check.php" crc="158155501" ref="index"/>
-    <file name="form_throttle.php" crc="3992970984" ref="index"/>
-    <file name="form_process.php" crc="4078697226" ref="index"/>
-    <file name="form-u515.php" crc="109240118" ref="index"/>
     <file name="jquery.museresponsive.js" crc="4146931122" ref="index"/>
     <file name="require.js" crc="244322403" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="pexels-photo.png" crc="3943125377" seo="true" ref="index"/>
+    <file name="pexels-photo.png" crc="478598108" seo="true" ref="index"/>
     <file name="logo.svg" crc="256533125" seo="true" ref="index"/>
     <file name="logo_poster_.png" crc="3904317847" ref="index"/>
-    <file name="logo-crop-u366.png" crc="3845278557" ref="index"/>
+    <file name="logo.png" crc="268331802" seo="true" ref="index"/>
     <file name="u265-6.png" crc="467374934" ref="index"/>
-    <file name="software.png" crc="369460060" seo="true" ref="index"/>
-    <file name="flow-crop-u378.jpg" crc="3808310460" ref="index"/>
+    <file name="software.png" crc="4111304281" seo="true" ref="index"/>
+    <file name="flow-crop-u378.jpg" crc="304791738" ref="index"/>
     <file name="presentation.jpg" crc="303409842" seo="true" ref="index"/>
-    <file name="u440-6.png" crc="3818822931" ref="index"/>
-    <file name="u234-4.png" crc="4035291404" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="pexels-photo1920x1281.png" crc="4122584453" seo="true" ref="index"/>
+    <file name="u440-8.png" crc="62786806" ref="index"/>
+    <file name="u234-4.png" crc="386855130" ref="index"/>
     <file name="u265-62.png" crc="3941761162" ref="index"/>
-    <file name="logo-crop-u3662.png" crc="281595706" ref="index"/>
-    <file name="software856x577.png" crc="525371530" seo="true" ref="index"/>
-    <file name="flow-crop-u3782.jpg" crc="4034199208" ref="index"/>
-    <file name="u440-62.png" crc="4011544707" ref="index"/>
+    <file name="software856x577.png" crc="3860217479" seo="true" ref="index"/>
+    <file name="flow-crop-u3782.jpg" crc="289234010" ref="index"/>
+    <file name="u440-82.png" crc="3762217635" ref="index"/>
     <file name="u234-42.png" crc="4077735843" ref="index"/>
-    <file name="pexels-photo1400x934.png" crc="3882823996" seo="true" ref="index"/>
-    <file name="logo-crop-u3663.png" crc="4289968091" ref="index"/>
-    <file name="u265-63.png" crc="30386935" ref="index"/>
-    <file name="software625x421.png" crc="4275174766" seo="true" ref="index"/>
-    <file name="flow-crop-u3783.jpg" crc="321090224" ref="index"/>
+    <file name="pexels-photo1400x934.png" crc="3761995385" seo="true" ref="index"/>
+    <file name="u265-63.png" crc="276846895" ref="index"/>
+    <file name="software625x421.png" crc="146912188" seo="true" ref="index"/>
+    <file name="flow-crop-u3783.jpg" crc="4038205284" ref="index"/>
     <file name="presentation1400x788.jpg" crc="443733491" seo="true" ref="index"/>
-    <file name="u440-63.png" crc="320263095" ref="index"/>
+    <file name="u440-83.png" crc="251038688" ref="index"/>
     <file name="u234-43.png" crc="3946636810" ref="index"/>
-    <file name="pexels-photo1200x801.png" crc="384951791" seo="true" ref="index"/>
-    <file name="logo-crop-u3664.png" crc="4199500402" ref="index"/>
+    <file name="pexels-photo1200x801.png" crc="3828259167" seo="true" ref="index"/>
     <file name="u265-64.png" crc="479785603" ref="index"/>
-    <file name="software535x361.png" crc="3796917857" seo="true" ref="index"/>
-    <file name="flow-crop-u3784.jpg" crc="4175490166" ref="index"/>
+    <file name="software535x361.png" crc="4024972553" seo="true" ref="index"/>
+    <file name="flow-crop-u3784.jpg" crc="4039986392" ref="index"/>
     <file name="presentation1200x675.jpg" crc="26444014" seo="true" ref="index"/>
-    <file name="u440-64.png" crc="141567423" ref="index"/>
+    <file name="u440-84.png" crc="4129875154" ref="index"/>
     <file name="u234-44.png" crc="219485155" ref="index"/>
-    <file name="pexels-photo960x641.png" crc="314902374" seo="true" ref="index"/>
-    <file name="logo-crop-u3665.png" crc="117493910" ref="index"/>
-    <file name="u265-65.png" crc="3912830014" ref="index"/>
-    <file name="software428x289.png" crc="4245669302" seo="true" ref="index"/>
-    <file name="flow-crop-u3785.jpg" crc="272168656" ref="index"/>
-    <file name="presentation960x540.jpg" crc="3776069191" seo="true" ref="index"/>
-    <file name="u440-65.png" crc="496933470" ref="index"/>
-    <file name="u234-45.png" crc="419075140" ref="index"/>
+    <file name="pexels-photo320x214.png" crc="475525752" seo="true" ref="index"/>
+    <file name="u265-65.png" crc="141060533" ref="index"/>
+    <file name="presentation320x180.jpg" crc="4077480186" seo="true" ref="index"/>
+    <file name="u440-85.png" crc="4056275712" ref="index"/>
+    <file name="software143x97.png" crc="3956387733" seo="true" ref="index"/>
+    <file name="flow-crop-u3785.jpg" crc="263861669" ref="index"/>
+    <file name="u234-45.png" crc="237241432" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="365002539" seo="true" mt="1499605513030" redirect="true"/>
+  <file name="index.html" crc="4271534084" seo="true" mt="1499632489473" redirect="true"/>
 </manifest>
